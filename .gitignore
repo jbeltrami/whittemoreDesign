@@ -1,0 +1,6 @@
+vendor
+assets/
+wp-content
+node_modules/
+.DS_Store
+.env

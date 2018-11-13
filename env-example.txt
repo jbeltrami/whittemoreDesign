@@ -1,0 +1,11 @@
+HOST_NAME='whatever'
+HOST_USER='whatever'
+HOST_PASSWORD='whatever'
+HOST_DESTINATION='path within the server. "/staging/2018/example"'
+
+STAGING_NAME='example.com'
+STAGING_USER='exampleuser'
+STAGING_PASSWORD='examplepassword'
+STAGING_DESTINATION='public_html/example'
+
+COMPILED_FOLDER='./'
